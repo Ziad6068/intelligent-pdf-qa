@@ -8,7 +8,7 @@ AI-powered PDF assistant: ask questions and get answers from your documents.
 - 🎯 Finds the most relevant sentences with confidence scores
 - 🖥️ User-friendly GUI built with Tkinter
 
-![App Screenshot](Screenshot (11).png)
+![App Screenshot](Screenshot.png)
 
 
 ## Installation
