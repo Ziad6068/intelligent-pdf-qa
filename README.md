@@ -13,3 +13,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/Ziad6068/pdf-qa-system.git
 cd pdf-qa-system
+<img width="1897" height="916" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/f1fb448c-3eea-485d-a9cf-4f0e591cf359" />
+
