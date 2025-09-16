@@ -8,10 +8,12 @@ AI-powered PDF assistant: ask questions and get answers from your documents.
 - 🎯 Finds the most relevant sentences with confidence scores
 - 🖥️ User-friendly GUI built with Tkinter
 
+![App Screenshot](Screenshot (11).png)
+
+
 ## Installation
 Clone the repository:
 ```bash
 git clone https://github.com/Ziad6068/pdf-qa-system.git
 cd pdf-qa-system
 
-![App Screenshot](Screenshot (11).png)
